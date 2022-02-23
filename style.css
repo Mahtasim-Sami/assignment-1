@@ -1,3 +1,25 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.red-color{
+    color: red;
+}
+.half-width img{
+    width: 100%;
+}
+.flexible container{
+    display: flex;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.button-color{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
